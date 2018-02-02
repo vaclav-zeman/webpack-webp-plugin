@@ -1,9 +1,8 @@
 {
   "name": "webpack-webp-plugin",
   "version": "0.0.1",
-  "description":
-    "Webpack plugin that automatically converts PNG/JPEG files into WEBP",
-  "main": "index.js",
+  "description": "Webpack plugin that automatically converts PNG/JPEG files into WEBP",
+  "main": "dist/plugin.js",
   "scripts": {
     "build": "babel src -d dist"
   },
